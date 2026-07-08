@@ -1,0 +1,88 @@
+{
+  "files": [
+    {
+      "id": "folder-design",
+      "title": "デザインスキル（design skill)",
+      "mime_type": "application/vnd.google-apps.folder",
+      "url": "https://drive.google.com/drive/folders/folder-design",
+      "parent_id": null
+    },
+    {
+      "id": "folder-design-1",
+      "title": "１",
+      "mime_type": "application/vnd.google-apps.folder",
+      "url": "https://drive.google.com/drive/folders/folder-design-1",
+      "parent_id": "folder-design"
+    },
+    {
+      "id": "folder-design-10",
+      "title": "10",
+      "mime_type": "application/vnd.google-apps.folder",
+      "url": "https://drive.google.com/drive/folders/folder-design-10",
+      "parent_id": "folder-design"
+    },
+    {
+      "id": "file-design-goal",
+      "title": "デザインスキル講座のゴール / Course Goal",
+      "mime_type": "application/vnd.google-apps.document",
+      "url": "https://docs.google.com/document/d/file-design-goal/edit",
+      "parent_id": "folder-design"
+    },
+    {
+      "id": "file-design-lesson-1",
+      "title": "デザインスキル応用_第1回_授業テキスト.pdf",
+      "mime_type": "application/pdf",
+      "url": "https://drive.google.com/file/d/file-design-lesson-1/view",
+      "parent_id": "folder-design-1"
+    },
+    {
+      "id": "file-design-lesson-10-slide",
+      "title": "デザインスキル応用_第10回_スマホ対応",
+      "mime_type": "application/vnd.google-apps.presentation",
+      "url": "https://docs.google.com/presentation/d/file-design-lesson-10-slide/edit",
+      "parent_id": "folder-design-10"
+    },
+    {
+      "id": "file-design-lesson-10-form",
+      "title": "6月29日デザインスキル",
+      "mime_type": "application/vnd.google-apps.form",
+      "url": "https://docs.google.com/forms/d/file-design-lesson-10-form/edit",
+      "parent_id": "folder-design-10"
+    },
+    {
+      "id": "folder-graduation",
+      "title": "卒業制作(Graduation Project BI)",
+      "mime_type": "application/vnd.google-apps.folder",
+      "url": "https://drive.google.com/drive/folders/folder-graduation",
+      "parent_id": null
+    },
+    {
+      "id": "folder-graduation-1",
+      "title": "1",
+      "mime_type": "application/vnd.google-apps.folder",
+      "url": "https://drive.google.com/drive/folders/folder-graduation-1",
+      "parent_id": "folder-graduation"
+    },
+    {
+      "id": "folder-graduation-13",
+      "title": "回13-14",
+      "mime_type": "application/vnd.google-apps.folder",
+      "url": "https://drive.google.com/drive/folders/folder-graduation-13",
+      "parent_id": "folder-graduation"
+    },
+    {
+      "id": "file-graduation-overview",
+      "title": "卒業制作BI_授業概要",
+      "mime_type": "application/vnd.google-apps.document",
+      "url": "https://docs.google.com/document/d/file-graduation-overview/edit",
+      "parent_id": "folder-graduation-1"
+    },
+    {
+      "id": "file-graduation-presentation",
+      "title": "必ず出席※回13-14_授業スライド",
+      "mime_type": "application/vnd.google-apps.presentation",
+      "url": "https://docs.google.com/presentation/d/file-graduation-presentation/edit",
+      "parent_id": "folder-graduation-13"
+    }
+  ]
+}
