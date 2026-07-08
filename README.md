@@ -32,6 +32,24 @@ cd drive-folder-reader
 python3 sample.py
 ```
 
+一連の処理をまとめて実行する場合:
+
+```bash
+python3 automation.py
+```
+
+任意のJSONを指定する場合:
+
+```bash
+python3 automation.py path/to/drive_items.json
+```
+
+結果をファイルに書き出す場合:
+
+```bash
+python3 automation.py -o output.json
+```
+
 ## 入力JSONの形式
 
 ```json
